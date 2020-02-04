@@ -39,7 +39,7 @@ public class FixedTouchField : MonoBehaviour, IPointerUpHandler, IPointerDownHan
     public void OnPointerDown(PointerEventData eventData)
     {
         pressed = true;
-        pointid = eventData.pointid;
+        pointid = eventData.pointerId;
         pointbefore = eventData.position;
     }
 
