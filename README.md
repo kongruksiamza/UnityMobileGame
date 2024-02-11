@@ -1,5 +1,6 @@
 ## 🎓 คอร์สเรียนที่เกี่ยวข้อง
 - [สร้างเกม 3D ด้วยโปรแกรม Unity](https://www.udemy.com/course/unity-3d-game/?referralCode=F02D3B6DC87F9D3CB1CB)
+- [สร้างเกม 2D ด้วยโปรแกรม Unity](https://www.udemy.com/course/unity-2d-tutorial/?referralCode=D74E1D9AA819BAA65847)
 
 ## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
 - [Facebook](https://www.facebook.com/KongRuksiamTutorial)
